@@ -1,0 +1,11 @@
+{
+  "KPlugin": {
+    "Id": "edgereveal",
+    "Name": "Edge Reveal",
+    "Description": "Reveal hidden Plasma panels when the pointer nears a screen edge, across the full width.",
+    "Version": "0.1",
+    "License": "MIT"
+  },
+  "X-Plasma-API": "javascript",
+  "KPackageStructure": "KWin/Script"
+}
